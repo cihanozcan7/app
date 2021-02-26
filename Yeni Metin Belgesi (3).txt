@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Age Of Empires 3",
+    "image": "https://raw.githubusercontent.com/cihanozcan7/app/main/ageofempires3.png",
+    "code": "cheese steak jimmy's - 1000 food (yiyecek) verir
+robin hood - 1000 gold (altın) verir
+rock on - 1000 stone (taş) verir
+lumberjack - 1000 wood (odun) verir
+aegis - inşaatların daha hızlı bitirilmesini sağlar
+how do you turn this on - cobra car verir
+natural wonders - hayvanları da kontrol edebilmenizi sağlar
+marco - tüm haritayı açar."
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
+    "code": "Arabic"
+  }
+]
