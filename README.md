@@ -39,9 +39,17 @@ daylightsavings - Toggle daylight progression
 motherland - Level seçimi"
   },
   {
-    "name": "Algeria",
-    "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
-    "code": "Arabic"
+    "name": "Spider Man",
+    "image": "https://raw.githubusercontent.com/cihanozcan7/app/main/spiderman.png",
+    "code": "Aşağıdaki kodları SPECIAL daki CHEATS bölümüne yazın
+GIRLNEXTDOOR:MaryJane olursunuz
+HERMANSCHULT:şokçu olursunuz
+REALHERO:polis olursunuz
+CAPTAINSTACEX:helikopter pilotu olursunuz
+SERUM:profesör olursunuz
+DODGETHIS:MATRIX modu
+KOALA:Bütün özellikleri kazanırsınız
+FREAKOUT:goblin stili elbiseler"
   },
   {
     "name": "Algeria",
