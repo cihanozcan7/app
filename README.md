@@ -67,27 +67,7 @@ BMW Arabanizi BMW'ye çevirir
 HOLLYWOOD Oyuna yeni bir bölüm ekler
 PIONEER Tüm arabalari hizlandirir.
 MACH1 Arabanizi hizlandirir
-SEMI Arabanizi kamyonete çevirir
-ARMYTRUCK Ordu tipi bir kamyonet
-VWBUG Arabayi Volkswagen'e çevirir
-TANK Arabayi TANK yapar!
-VOLVO Anladiniz...
-Bus Otobüs
-vwbug Volkswagen
-Miata Mazda Miata
-Mercedes Mercedes
-limo Limuzin
-commanche Kamyonet
-snowtruck Kar kamyonu
-landcruiser Toyota landcruiser
-jeepyj Jeep
-quattro Audi quattro
-vanagon Volkswagon combi van
-drive31 citroen 2cv (31...50)
-drive36 kart
-drive38 t-rex
-drive39 wagon
-drive47 UFO"
+
   },
   {
     "name": "Age Of Mtythology",
