@@ -92,35 +92,7 @@ drive47 UFO"
   {
     "name": "Age Of Mtythology",
     "image": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
-    "code": "Age Of Empires oynunu zamanında çok oynsmıştım halada oynuyorum en sevdiğim oyunlardan biri
-Oynarken enter tuşuna basın ve aşağıdaki kodlardan birini yazın sonra
-tekrar enter\'e basın ve oyuna devam edin.
-
-
-THRILL OF VICTORY --senaryoyu kazandırır
-IN DARKEST NIGHT --Gece modu
-MOUNT OLYMPUS --Max Favor
-SET ASCENDANT --Bütün hayvanları gösterir
-CONSIDER THE INTERNET-- Birimleri yavaşlatır
-WRATH OF THE GODS-- Yeni tanrısal güçler
-PANDORAS BOX --Yeni tanrısal güçler
-DIVINE INTERVENTION --Tanrısal müdahele
-JUNK FOOD NIGHT ---100 yiyecek (food) verir
-TROJAN HORSE FOR SALE --- 100 tahta (wood) verir
-ATM OF EREBUS ---1000 altın (gold) verir
-LAY OF THE LAND --- Haritayı gösterir
-UNCERTAINTY AND DOUBT ---Haritayı gizler
-GOATUNHEIM ---Düşmanı keçiye çevirir
-FEAR THE FORAGE ---Yürüyen çilek çalıları gücü
-BAWK BAWK BOOM ---Tavuk yağmuru
-I WANT TEH MONKEYS!!!!! ---Maymun ekler
-WUV WOO ---Uçan mor hippo
-TINES OF POWER ---Çatalçocuk
-O CANADA---Lazer ışını
-ISIS HEAR MY PLEA ---Kampanya\'dan kahramanlar ekler
-RED TIDE Changes ---Suyu kırmızıya çevirir
-CHANNEL SURFING ---Birimler suda yürüyebilir
-L33T SUPA H4X0R ---Hızlı inşa"
+    "code": ""
   },
   {
     "name": "Algeria",
