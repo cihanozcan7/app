@@ -37,6 +37,29 @@ lightsout - Gün batımı
 daylightsavings - Günün saatini değiştirir
 daylightsavings - Toggle daylight progression
 motherland - Level seçimi"
+"allyourbasearebelongtous - Görevi kazanırsınız
+somebodysetupusthebomb - Görevi kaybedersiniz
+thereisnospoon - Sınırsız mana
+whosyourdaddy - God mode, ölümsüzlük
+strengthandhonor - Görevi kaybetme durumunu kapatır
+itvexesme - Görevi kazanma durumunu kapatır
+greedisgood - 500 gold ve lumber verir
+greedisgood # - # kadar gold ve lumber verir
+keysersoze - 500 gold verir
+keysersoze # - # kadar gold verir
+leafittome - 500 lumber verir
+leafittome # - # kadar lumber verir
+pointbreak - food limit'i kapatır
+warpten - Hızlı bina ve birim üretme
+iocainepowder - Hızlı ölüm ve yokolma
+whoisjohngalt - Hızlı araştırma (research)
+sharpandshiny - upgrade'leri araştırır (research)
+synergy - tech tree ön şartlarını kapatır
+riseandshine - Şafak vakti
+lightsout - Gün batımı
+daylightsavings - Günün saatini değiştirir
+daylightsavings - Toggle daylight progression
+motherland - Level seçimi"
   },
   {
     "name": "Spider Man",
